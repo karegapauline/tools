@@ -1,4 +1,6 @@
-## Bumping a pipeline version number
+---
+title: Bumping a pipeline version number
+--- 
 
 When releasing a new version of a nf-core pipeline, version numbers have to be updated in several different places. The helper command `nf-core bump-version` automates this for you to avoid manual errors (and frustration!).
 
